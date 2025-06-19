@@ -1,0 +1,42 @@
+export const data = [
+    {
+      question: "What is Jyoti's full name?",
+      option1: "Miftahul Jannat",
+      option2: "Miftaul Zannat",
+      option3: "Miftaul Jannat",
+      option4: "Miftahul Zannat",
+      ans: 3,
+    },
+    {
+      question: "What is Jyoti's birth date?",
+      option1: "16th December, 2000",
+      option2: "8th July, 2000",
+      option3: "19th October, 2000",
+      option4: "5th November, 2000",
+      ans: 2,
+    },
+    {
+      question: "Where did Jypti finish her Study? ",
+      option1: "Dhaka University",
+      option2: "Chitagong University",
+      option3: "Bangladesh University",
+      option4: "Rajshahi University",
+      ans: 4,
+    },
+    {
+      question: "Who is Leo?",
+      option1: "Jyoti's Boy",
+      option2: "Jyoti's Friend",
+      option3: "Jypti's Pet",
+      option4: "All of the Above",
+      ans: 4,
+    },
+    {
+      question: "Jyoti's Hobby is...",
+      option1: "Playing Football",
+      option2: "Gardening",
+      option3: "Ignoring Sabab",
+      option4: "Dancing",
+      ans: 3,
+    },
+  ];

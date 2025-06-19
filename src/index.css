@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    padding: 20px;
+    height: 100vh;
+    background-image: linear-gradient(#D8C7FF, #19006C);
+}
+.namePera{
+    text-align: center;
+    color: white;
+
+}
