@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import './Quiz.css'
-import { data } from '../../assets/data'
+import { data } from '../../assets/data1'
 import { useRef } from 'react';
 
 const Quiz = () => {
